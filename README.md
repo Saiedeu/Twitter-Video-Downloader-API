@@ -10,7 +10,7 @@
 
 **Enterprise-grade PHP API for extracting video URLs from Twitter/X posts with 6 fallback methods**
 
-[🚀 Live Demo](https://sidman-apis.unaux.com/xvid/v1) • [📖 Documentation](docs/API-DOCUMENTATION.md) • [💻 Examples](examples/) • [🐛 Report Bug](https://github.com/yourusername/twitter-x-video-downloader-api/issues)
+[🚀 Live Demo](https://sidman-apis.unaux.com/xvid/v1) • [📖 Documentation](documentation.html)) • [💻 Examples](examples/) • [🐛 Report Bug](https://github.com/yourusername/twitter-x-video-downloader-api/issues)
 
 </div>
 
